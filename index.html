@@ -117,6 +117,22 @@ All rights reserved.
   .chat-new-btn { position: absolute; bottom: 16px; left: 50%; transform: translateX(-50%); width: auto; padding: 6px 14px; margin: 0; background: var(--gold); color: #111; font-size: 12px; font-weight: 700; border-radius: 16px; box-shadow: 0 2px 8px rgba(0,0,0,.5); }
   .chat-new-btn:hover { background: var(--gold); }
   .hidden { display: none !important; }
+  .game-credits {
+    text-align: center;
+    margin: 22px 0 8px;
+    padding: 10px 8px;
+    color: var(--mut);
+    font-size: 11px;
+    letter-spacing: .45px;
+    line-height: 1.6;
+}
+
+.game-credits small {
+    display: block;
+    margin-top: 3px;
+    font-size: 9px;
+    opacity: .7;
+}
 </style>
 </head>
 <body>
@@ -311,7 +327,11 @@ function home(msg) {
     ${se && !msg && !noResume && !displaced ? `<div class="card">
        <p class="muted">Last room: <b>${esc(se.code)}</b> (${esc(se.name)})</p>
        <button class="gray" onclick="reconnect()">Reconnect</button></div>` : ''}
-    ${msg ? `<div class="alert">${esc(msg)}</div>` : ''}
+    ${msg ? `<div class="alert">${esc(msg)}</div>
+    <footer class="game-credits">
+    <div>An original game by K486924</div>
+    <small>© 2026 K486924 · All rights reserved</small>
+</footer>` : ''}
   `;
 }
 
