@@ -1,28 +1,23 @@
-OPEN THE INDEX HTML FILE KN ANY DEVICE ON ANY BROWSER CREATE A ROOM AND SHARE THE ROOM COSE TO PLAY!
-# Mafia Game
+# 🕵️ Mafia Game
 
-A multiplayer Mafia game playable across multiple phones.
+A real-time multiplayer Mafia game playable across multiple phones and browsers. 
 
-## 🎮 Play the Game
+### 🎮 [Click Here to Play](https://k486924.github.io/Mafia/)
 
-[**Click Here to Play Mafia**](https://k486924.github.io/Mafia/)
+**How to start a game:**
+1. Open the link above on your device.
+2. Create a room and share the 5-letter Room Code with your friends.
+3. Everyone joins, and the host starts the game (requires 5+ players).
 
+---
 
-
-
-
-## © Ownership & Credits
+## 🛠️ Ownership & Credits
 
 Mafia is an independently developed multiplayer social deduction game.
+Original gameplay design, role mechanics, multiplayer architecture, UI/UX direction, and project implementation by **K486924**.
 
-Original gameplay design, role mechanics, multiplayer architecture,
-UI/UX direction and project implementation by K486924.
+* AI-assisted development tools were used during development.
+* All original contributions to this project are protected by copyright.
+* Please provide attribution and a link to this repository when referencing or showcasing the project.
 
-AI-assisted development tools were used during development.
-
-All original contributions to this project are protected by copyright.
-
-Please provide attribution and link to this repository when referencing
-or showcasing the project.
-
-Copyright © 2026 K486924. All rights reserved.
+**Copyright © 2026 K486924. All rights reserved.**
