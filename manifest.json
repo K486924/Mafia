@@ -1,6 +1,6 @@
 {
-  "name": "Pixel Blade - Mafia",
-  "short_name": "Pixel Blade",
+  "name": "Mafia-trust no one",
+  "short_name": "Mafia",
   "description": "A social deduction game of paranoia and strategy.",
   "start_url": "./index.html",
   "display": "standalone",
