@@ -8,7 +8,8 @@ A real-time multiplayer Mafia game playable across multiple phones and browsers.
 1. Open the link above on your device.
 2. Create a room and share the 5-letter Room Code with your friends.
 3. Everyone joins, and the host starts the game (requires 5+ players).
-
+4. Get a working web app in your phone's homescreen using the three dots->scroll down->install/create shortcut->install
+   for safari browser - share->create shortcut.
 ---
 
 ## 🛠️ Ownership & Credits
